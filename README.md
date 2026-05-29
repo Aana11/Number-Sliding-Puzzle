@@ -2,19 +2,6 @@
 
 A C++ implementation of a sliding puzzle (N-puzzle) solver using the A* algorithm.
 
-## Build
-
-```bash
-cd shuzi
-cmake -B build -G "MinGW Makefiles"
-cmake --build build
-```
-
-## Run
-
-```bash
-./build/shuzi.exe
-```
 
 ## Usage
 
